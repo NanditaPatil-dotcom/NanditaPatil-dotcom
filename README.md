@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Heyy 👋 I'm Nandita</h1>
+<p align="center">👩‍💻 Engineering Student | 💡 Creative Coder | 🎨 Artist</p>
 
-<!--
-**NanditaPatil-dotcom/NanditaPatil-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Learning
+- Backend Dev with Express.js
+- AI/ML & Quantum Magic
+- Deploying Real-World Projects
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌸 Fun Facts
+- 🎯 Coding + Art is my aesthetic
+- ✨ Fedora warrior, React crusader
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandita-n-patil-3a8b0632a/)
+[![Instagram](https://img.shields.io/badge/-Insta-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nanditanpatil.pyt)
+
