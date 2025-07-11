@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
 
 ---
 
