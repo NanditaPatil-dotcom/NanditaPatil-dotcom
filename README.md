@@ -18,7 +18,7 @@
 - Deploying Real-World Projects
 
 ---
-![NanditaPatil-dotcom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NanditaPatil-dotcom&theme=dracula&hide_border=true)
+![NanditaPatil-dotcom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NanditaPatil-dotcom&theme=tokyonight&hide_border=true)
 ---
 
 ### 🌸 Fun Facts
