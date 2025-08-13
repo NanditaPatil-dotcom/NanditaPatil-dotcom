@@ -25,7 +25,7 @@ status: Active
 ```python
 skills = {
     "languages": ["C++", "Python", "C"],
-    "frontend": ["React"],
+    "frontend": ["React","HTML","CSS"],
     "backend": ["Node.js", "Express"],
     "tools": ["Claude.ai", "Canva"]
 }
