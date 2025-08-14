@@ -17,7 +17,7 @@
 username: NanditaPatil-dotcom
 role: Student | Developer
 location: Bengaluru, Karnataka
-specialization: [Cybersecurity, MERN]
+specialization: [AI/ML, MERN]
 status: Active
 ```
 
@@ -40,14 +40,14 @@ const currentFocus = {
     solving: "LeetCode Problems",
     building: "Zenthomes Project",
     seeking: "Internship Opportunities",
-    learning: "Advanced Cybersecurity"
+    learning: "Foundational AI"
 }
 ```
 
 ## 🌟 **OFFLINE MODE**
 ```yaml
 interests:
-  - 🎨 Digital Art & Drawing
+  - 🎨 Art & Drawing
   - 🏸 Badminton Championships  
   - 🏓 Table Tennis Battles
   - ✈️ World Exploration
@@ -110,7 +110,6 @@ interests:
 
 ```
 > Initializing connection...
-> Loading cybersecurity protocols...
 > MERN stack ready...
 > Seeking collaboration opportunities...
 > Ready to build the future! 🚀
