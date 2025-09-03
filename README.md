@@ -95,7 +95,6 @@ personality:
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NanditaPatil-dotcom&repo=Lumine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" />
 </a>
 
-
 </div>
 
 
@@ -104,8 +103,8 @@ personality:
 ## 🌐 **LET'S CONNECT**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00f5ff&labelColor=0d1117)](https://github.com/NanditaPatil-dotcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00f5ff&labelColor=0d1117)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00f5ff&labelColor=0d1117)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00f5ff&labelColor=0d1117)](https://linkedin.com/in/nandita-patil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00f5ff&labelColor=0d1117)](mailto:nandita.patil@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NanditaPatil-dotcom&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/NanditaPatil-dotcom)
 [![GitHub followers](https://img.shields.io/github/followers/NanditaPatil-dotcom?label=Follow&style=for-the-badge&color=00f5ff&labelColor=0d1117)](https://github.com/NanditaPatil-dotcom)
@@ -116,9 +115,7 @@ personality:
 
 <div align="center">
 
-
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling&fontColor=00f5ff"/>
 
