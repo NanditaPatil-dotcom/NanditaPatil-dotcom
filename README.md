@@ -71,7 +71,7 @@ personality:
 
 ## 🔥 **CONTRIBUTION STREAK**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NanditaPatil-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=NanditaPatil-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 </div>
 
