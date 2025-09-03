@@ -33,8 +33,10 @@ tech_stack = {
     "ai_tools": ["Claude.ai", "ChatGPT"],
     "design": ["Canva", "Figma"]
 }
-
 ```
+
+</td>
+<td width="50%">
 
 ## 🌟 **BEYOND CODE**
 ```yaml
@@ -44,6 +46,7 @@ personality:
     - 🏸 Badminton Player
     - 🏓 Table Tennis Enthusiast
     - ✈️ Travel & Photography
+  motto: "Code with passion, learn with curiosity!"
 ```
 
 </td>
@@ -92,24 +95,8 @@ personality:
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NanditaPatil-dotcom&repo=Zenthomes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" />
 </a>
 
-<!-- Add more repositories as you create them -->
-<a href="https://github.com/NanditaPatil-dotcom/LeetCode-Solutions">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NanditaPatil-dotcom&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" />
-</a>
-
 </div>
 
----
-
-<div align="center">
-
-## 💻 **LEETCODE PROGRESS**
-
-<img src="https://leetcard.jacoblin.cool/NanditaPatil?theme=dark&font=Orbitron&ext=activity" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -129,7 +116,8 @@ personality:
 <div align="center">
 
 
----
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling&fontColor=00f5ff"/>
 
