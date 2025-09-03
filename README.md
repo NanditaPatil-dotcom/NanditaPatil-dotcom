@@ -96,7 +96,7 @@ interests:
 
 ## 🚀 **FEATURED REPOSITORIES**
 
-<a href="https://github.com/NanditaPatil-dotcom/Zenthomes">
+<a href="https://github.com/NanditaPatil-dotcom/Lumine">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NanditaPatil-dotcom&repo=Zenthomes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" />
 </a>
 
@@ -114,9 +114,6 @@ interests:
 > Seeking collaboration opportunities...
 > Ready to build the future! 🚀
 ```
-
-**🎯 MISSION: SECURING THE DIGITAL WORLD, ONE LINE OF CODE AT A TIME**
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
