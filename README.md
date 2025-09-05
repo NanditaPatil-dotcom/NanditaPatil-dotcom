@@ -44,7 +44,6 @@ personality:
     - 🏸 Badminton Player
     - 🏓 Table Tennis Enthusiast
     - ✈️ Travel & Photography
-  motto: "Code with passion, learn with curiosity!"
 ```
 
 </td>
