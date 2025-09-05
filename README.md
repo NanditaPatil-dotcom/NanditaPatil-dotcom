@@ -2,8 +2,6 @@
 
 # 🌌 WELCOME TO MY DIGITAL REALM 🌌
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nandita+%F0%9F%91%8B;Student+%7C+AI/ML+Enthusiast;MERN+Stack+Developer;Based+in+Bengaluru+%F0%9F%8C%86;Always+Learning+%26+Growing!" alt="Typing SVG" />
-
 ---
 
 </div>
