@@ -1,11 +1,3 @@
-<div align="center">
-
-# 🌌 WELCOME TO MY DIGITAL REALM 🌌
-
----
-
-</div>
-
 <table align="center">
 <tr>
 <td width="50%">
