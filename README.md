@@ -95,7 +95,6 @@ personality:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00f5ff&labelColor=0d1117)](https://linkedin.com/in/nandita-patil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00f5ff&labelColor=0d1117)](mailto:nandita.patil@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NanditaPatil-dotcom&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/NanditaPatil-dotcom)
 [![GitHub followers](https://img.shields.io/github/followers/NanditaPatil-dotcom?label=Follow&style=for-the-badge&color=00f5ff&labelColor=0d1117)](https://github.com/NanditaPatil-dotcom)
 
 </div>
