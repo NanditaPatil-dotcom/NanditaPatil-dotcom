@@ -15,7 +15,7 @@ education: Computer Science Student
 ## ⚡ **TECH STASH**
 ```python
 tech_stack = {
-    "languages": ["C++", "Python", "JavaScript", "C"],
+    "languages": ["C++", "Python", "JavaScript", "C","Go"],
     "frontend": ["React.js", "HTML5", "CSS3", "Bootstrap"],
     "backend": ["Node.js", "Express.js", "MongoDB"],
     "database": ["MongoDB", "MySQL"],
