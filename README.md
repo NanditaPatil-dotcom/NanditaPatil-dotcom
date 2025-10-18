@@ -76,30 +76,6 @@ personality:
 
 ---
 
-<div align="center">
-
-## 🚀 **FEATURED PROJECTS**
-
-<a href="https://github.com/NanditaPatil-dotcom/decentralized-storage-main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NanditaPatil-dotcom&repo=decentralized-storage-main&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" />
-</a>
-
-</div>
-
-
-<div align="center">
-
-## 🌐 **LET'S CONNECT**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00f5ff&labelColor=0d1117)](https://github.com/NanditaPatil-dotcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00f5ff&labelColor=0d1117)](https://linkedin.com/in/nandita-patil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00f5ff&labelColor=0d1117)](mailto:nandita.patil@gmail.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/NanditaPatil-dotcom?label=Follow&style=for-the-badge&color=00f5ff&labelColor=0d1117)](https://github.com/NanditaPatil-dotcom)
-
-</div>
-
----
 
 <div align="center">
 
