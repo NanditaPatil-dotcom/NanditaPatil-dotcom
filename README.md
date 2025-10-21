@@ -7,7 +7,7 @@
 username: NanditaPatil-dotcom
 role: Student | Full-Stack Developer
 location: Bengaluru, Karnataka, India
-specialization: [AI/ML, MERN Stack]
+specialization: [AI/ML, MERN Stack,Blockchain]
 status: Active & Ready to Collaborate
 education: Computer Science Student
 ```
@@ -17,7 +17,7 @@ education: Computer Science Student
 tech_stack = {
     "languages": ["C++", "Python", "JavaScript", "C","Go"],
     "frontend": ["React.js", "HTML5", "CSS3", "Bootstrap"],
-    "backend": ["Node.js", "Express.js", "MongoDB"],
+    "backend": ["Node.js", "Express.js", "Solidity"],
     "database": ["MongoDB", "MySQL"],
     "tools": ["Git", "VS Code", "Postman"],
     "ai_tools": ["Claude.ai", "ChatGPT"],
