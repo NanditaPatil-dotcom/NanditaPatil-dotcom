@@ -11,7 +11,9 @@ specialization: [AI/ML, MERN Stack,Blockchain]
 status: Active & Ready to Collaborate
 education: Computer Science Student
 ```
-
+</td>
+<td width="50%">
+    
 ##  **TECH STASH**
 ```python
 tech_stack = {
@@ -23,19 +25,6 @@ tech_stack = {
     "ai_tools": ["Claude.ai", "ChatGPT"],
     "design": ["Canva", "Figma"]
 }
-```
-
-</td>
-<td width="50%">
-
-##  **BEYOND CODE**
-```yaml
-personality:
-  hobbies:
-    - 🎨 Digital Art & Sketching
-    - 🏸 Badminton Player
-    - 🏓 Table Tennis Enthusiast
-    - ✈️ Travel & Photography
 ```
 
 </td>
