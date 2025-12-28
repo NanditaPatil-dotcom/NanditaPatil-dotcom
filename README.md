@@ -13,18 +13,6 @@
 
 <div align="center">
 
-##  **GITHUB ANALYTICS**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NanditaPatil-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff9a8a&icon_color=ff9a8a&text_color=ffffff&ring_color=ff9a8a"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanditaPatil-dotcom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9a8a&text_color=ffffff"/>
-
-</div>
-
----
-
-<div align="center">
-
 ##  **CONTRIBUTION STREAK**
 <table>
 <tr>
