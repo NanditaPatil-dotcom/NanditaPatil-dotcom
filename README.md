@@ -26,9 +26,16 @@
 <div align="center">
 
 ##  **CONTRIBUTION STREAK**
-
+<table>
+<tr>
+<td>
 <img src="https://streak-stats.demolab.com/?user=NanditaPatil-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=ff9a8a&fire=ff9a8a&currStreakLabel=ff9a8a&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
-
+</td>
+<td>
+<img src="https://github-contributor-stats.vercel.app/api?username=NanditaPatil-dotcom&limit=4&theme=rose_pine&combine_all_yearly_contributions=true"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
