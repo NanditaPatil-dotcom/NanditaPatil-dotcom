@@ -1,4 +1,4 @@
-<table align="center">
+<table>
 <tr>
 <td>
     
@@ -10,4 +10,20 @@
 </table>
 
 
+
+<table>
+<tr>
+<td>
+    
+## Socials
+
+[![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/That-knack-behind-DSA-2f49f8922dfb80bf8a33c950b1581698)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nanditanpatil14@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://nanditanpatil.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=simple-icons:linkedin&logoColor=white)](https://www.linkedin.com/in/nandita-n-patil-3a8b0632a/)
+
+
+    
+</td>
+</tr>
 
