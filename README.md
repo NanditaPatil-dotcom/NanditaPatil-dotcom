@@ -22,8 +22,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://nanditanpatil.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=simple-icons:linkedin&logoColor=white)](https://www.linkedin.com/in/nandita-n-patil-3a8b0632a/)
 
-
-    
 </td>
 </tr>
+</table>
 
+<img 
+  src="https://spotify-widget-delta.vercel.app/api/spotify"
+/>
