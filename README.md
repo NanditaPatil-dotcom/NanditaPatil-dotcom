@@ -27,5 +27,5 @@
 </table>
 
 <img 
-  src="https://spotify-widget-delta.vercel.app/api/spotify"
+  src="https://spotify-widget-delta.vercel.app/api/spotify?rand=123"
 />
