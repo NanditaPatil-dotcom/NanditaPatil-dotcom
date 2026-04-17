@@ -21,10 +21,11 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nanditanpatil14@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://nanditanpatil.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=simple-icons:linkedin&logoColor=white)](https://www.linkedin.com/in/nandita-n-patil-3a8b0632a/)
+[![Illustrations](https://img.shields.io/badge/Illustrations-000035?style=flat-square&logo=inkscape&logoColor=white)](https://drawin-aw31.vercel.app/)
 
 </td>
 </tr>
 </table>
 <a href="https://open.spotify.com/playlist/3vL3JGfWSN6O0dhppbVkAn" target="_blank">
-  <img src="https://spotify-widget-delta.vercel.app/api/spotify?rand=123" />
+  <img src="https://spotify-widget-delta.vercel.app/api/spotify" />
 </a>
