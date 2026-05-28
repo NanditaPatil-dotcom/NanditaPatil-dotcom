@@ -26,6 +26,3 @@
 </td>
 </tr>
 </table>
-<a href="https://open.spotify.com/playlist/3vL3JGfWSN6O0dhppbVkAn" target="_blank">
-  <img src="https://spotify-widget-delta.vercel.app/api/spotify" />
-</a>
